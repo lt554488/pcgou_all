@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-interface" />
+        <module name="common-service" />
+        <module name="pcgou-basic-generator" />
+        <module name="pcgou-basic-util" />
+        <module name="pcgou-config-server" />
+        <module name="pcgou-conmmon-interface" />
+        <module name="pcgou-conmmon-service" />
+        <module name="pcgou-eureka" />
+        <module name="pcgou-plat-interface" />
+        <module name="pcgou-plat-service" />
+        <module name="pcgou-product-interface" />
+        <module name="pcgou-product-service" />
+        <module name="pcgou-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-interface" target="8" />
+      <module name="common-service" target="8" />
+      <module name="pcgou-basic-generator" target="8" />
+      <module name="pcgou-basic-parent" target="8" />
+      <module name="pcgou-basic-util" target="8" />
+      <module name="pcgou-common-parent" target="8" />
+      <module name="pcgou-config-server" target="8" />
+      <module name="pcgou-conmmon-interface" target="8" />
+      <module name="pcgou-conmmon-parent" target="8" />
+      <module name="pcgou-conmmon-service" target="8" />
+      <module name="pcgou-eureka" target="8" />
+      <module name="pcgou-parent" target="8" />
+      <module name="pcgou-plat-interface" target="8" />
+      <module name="pcgou-plat-parent" target="8" />
+      <module name="pcgou-plat-service" target="8" />
+      <module name="pcgou-product-interface" target="8" />
+      <module name="pcgou-product-parent" target="8" />
+      <module name="pcgou-product-service" target="8" />
+      <module name="pcgou-zuul" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

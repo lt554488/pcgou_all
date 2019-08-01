@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-basic-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-basic-parent/pcgou-basic-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-basic-parent/pcgou-basic-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-common-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-common-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-common-parent/common-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-common-parent/common-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-common-parent/common-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-common-parent/common-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-plat-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-plat-parent/pcgou-plat-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-plat-parent/pcgou-plat-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-product-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-product-parent/pcgou-product-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-product-parent/pcgou-product-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pcgou-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

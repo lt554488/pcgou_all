@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pcgou-common-parent/common-interface/common-interface.iml" filepath="$PROJECT_DIR$/pcgou-common-parent/common-interface/common-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-common-parent/common-service/common-service.iml" filepath="$PROJECT_DIR$/pcgou-common-parent/common-service/common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-basic-parent/pcgou-basic-generator/pcgou-basic-generator.iml" filepath="$PROJECT_DIR$/pcgou-basic-parent/pcgou-basic-generator/pcgou-basic-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-basic-parent/pcgou-basic-parent.iml" filepath="$PROJECT_DIR$/pcgou-basic-parent/pcgou-basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-basic-parent/pcgou-basic-util/pcgou-basic-util.iml" filepath="$PROJECT_DIR$/pcgou-basic-parent/pcgou-basic-util/pcgou-basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-common-parent/pcgou-common-parent.iml" filepath="$PROJECT_DIR$/pcgou-common-parent/pcgou-common-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-config-server/pcgou-config-server.iml" filepath="$PROJECT_DIR$/pcgou-config-server/pcgou-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-eureka/pcgou-eureka.iml" filepath="$PROJECT_DIR$/pcgou-eureka/pcgou-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-parent.iml" filepath="$PROJECT_DIR$/pcgou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-plat-parent/pcgou-plat-interface/pcgou-plat-interface.iml" filepath="$PROJECT_DIR$/pcgou-plat-parent/pcgou-plat-interface/pcgou-plat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-plat-parent/pcgou-plat-parent.iml" filepath="$PROJECT_DIR$/pcgou-plat-parent/pcgou-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-plat-parent/pcgou-plat-service/pcgou-plat-service.iml" filepath="$PROJECT_DIR$/pcgou-plat-parent/pcgou-plat-service/pcgou-plat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-product-parent/pcgou-product-interface/pcgou-product-interface.iml" filepath="$PROJECT_DIR$/pcgou-product-parent/pcgou-product-interface/pcgou-product-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-product-parent/pcgou-product-parent.iml" filepath="$PROJECT_DIR$/pcgou-product-parent/pcgou-product-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-product-parent/pcgou-product-service/pcgou-product-service.iml" filepath="$PROJECT_DIR$/pcgou-product-parent/pcgou-product-service/pcgou-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pcgou-zuul/pcgou-zuul.iml" filepath="$PROJECT_DIR$/pcgou-zuul/pcgou-zuul.iml" />
+    </modules>
+  </component>
+</project>
